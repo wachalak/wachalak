@@ -20,6 +20,7 @@ I want to pursue a PhD in computational biology, focusing on genomic research.
 - **Genomics** & **Epigenomics**
 - **Machine Learning**
 - **Statistics**
+- **Data Visualization & Analysis**
 - **Bioinformatics Tools**
 - **Collaboration**
 

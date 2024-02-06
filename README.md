@@ -1,15 +1,15 @@
-# Hi there! 👋
+# Hi c:
 
-I'm Karolina, MSc student in Bioinformatics at Wageningen University & Research, with a focus on genomics and statistical machine learning. Welcome to my GitHub profile! 
+I'm Karolina, an MSc student in Bioinformatics at Wageningen University & Research, with a focus on genomics and statistical machine learning. Welcome to my GitHub profile! 
 
 ## About Me
 
 During my master’s education, I've delved deep into the complexities of biological datasets, particularly in the wake of the omics revolution. These experiences made me realize:
 
-- 🧬 The importance of a multidisciplinary outlook on complex biological datasets through collaboration with researchers from various backgrounds.
-- 🧬 The need to bridge the qualitative-quantitative divide, especially in today's era where data collection has become cheap while inference remains expensive.
+ 🧬 The importance of a multidisciplinary outlook on complex biological datasets through collaboration with researchers from various backgrounds.
+ 🧬 The need to bridge the qualitative-quantitative divide, especially in today's era where data collection has become cheap while inference remains expensive.
 
-I am a team player, a critical thinker, and a lifelong learner, driven by the quest to unravel the mysteries encoded within genomic data. My ultimate goal is to pursue a Ph.D. in computational biology, with a focus on advancing genomic research.
+I am a team player, a critical thinker, and a lifelong learner, driven by the quest to unravel the mysteries encoded within genomic data. My ultimate goal is to pursue a Ph.D. in computational biology, focusing on genomic research.
 
 ## Skills & Expertise
 
@@ -22,9 +22,10 @@ I am a team player, a critical thinker, and a lifelong learner, driven by the qu
 
 Here is my thesis & research internship project:
 
-1. [Fused ridge-regularized methylation networks during pig development](Link to project repository or website)
+1. [Joint fused ridge-regularized methylation networks during pig foetal development](https://github.com/wachalak/Methylation_networks) :pig:
+   
    - We implemented joint fused ridge regularized network extraction to visualize the dynamics of methylation patterns spanning seven swine tissues at three developmental stages. We informed the penalty matrices guiding regularization with results from hierarchical clustering of RNA-Seq data.
-   - We used the rags2risges R package network extraction, visualization and analysis
+   - We used the rags2risges R package network extraction, visualization and analysis.
 
 ## Let's Connect
 

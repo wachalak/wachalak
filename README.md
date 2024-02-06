@@ -30,7 +30,7 @@ Here is my thesis & research internship project:
    
    - We implemented joint fused ridge regularized network extraction to visualize the dynamics of methylation patterns spanning seven swine tissues
 at three developmental stages. We informed the penalty matrices guiding regularization with results from hierarchical clustering of RNA-Seq data.
-   - We used the rags2risges R package network extraction, visualization and analysis.
+   - We used the rags2risges R package for network extraction, visualization and analysis.
 
 ## Let's Connect
 

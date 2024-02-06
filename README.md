@@ -12,12 +12,12 @@ These experiences made me realize:
 - 🧬 The need to bridge the qualitative-quantitative divide, especially in today's era where data collection has become cheap while inference remains
 expensive.
 
-I am a team player, a critical thinker, and a lifelong learner, driven by the quest to unravel the mysteries encoded within genomic data. 
-My ultimate goal is to pursue a Ph.D. in computational biology, focusing on genomic research.
+I am a team player, a critical thinker, and a lifelong learner, driven by the quest to unravel the mysteries encoded within genomic data using novel computational approaches. 
+I want to pursue a PhD in computational biology, focusing on genomic research.
 
 ## Skills & Expertise
 
-- **Genomics**: Proficient in analyzing genomic data, identifying patterns, and extracting meaningful insights.
+- **Genomics** & **Epigenomics**: Proficient in analyzing genomic data, identifying patterns, and extracting meaningful insights.
 - **Statistical Machine Learning**: Skilled in applying machine learning techniques to analyze biological datasets and make predictions.
 - **Bioinformatics Tools**: Experienced in using bioinformatics tools and software for data analysis and visualization.
 - **Collaboration**: Strong ability to collaborate with researchers from diverse backgrounds to tackle complex biological problems.

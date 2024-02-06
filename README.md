@@ -26,7 +26,7 @@ I want to pursue a PhD in computational biology, focusing on genomic research.
 
 Here is my thesis & research internship project:
 
-1. [Joint fused ridge-regularized methylation networks during pig foetal development](https://github.com/wachalak/Methylation_networks) 🐖
+1. [Joint fused ridge-regularized methylation networks modelling pig foetal development](https://github.com/wachalak/Methylation_networks) 🐖
    
    - We implemented joint fused ridge regularized network extraction to visualize the dynamics of methylation patterns spanning seven swine tissues
 at three developmental stages. We informed the penalty matrices guiding regularization with results from hierarchical clustering of RNA-Seq data.

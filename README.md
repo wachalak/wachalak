@@ -1,6 +1,6 @@
 # Hi c:
 
-I'm Karolina, an MSc student in Bioinformatics at Wageningen University & Research, with a focus on genomics and statistical machine learning. 
+I'm Karolina, a MSc student in Bioinformatics at Wageningen University & Research, with a focus on genomics and statistical machine learning. 
 Welcome to my GitHub profile! 
 
 ## Research interests

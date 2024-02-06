@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
    🧬 Developmental Biology
    🧬 Evolutionary Biology
 
-I am a team player, a critical thinker, and a lifelong learner, driven by the quest to unravel the mysteries encoded within genomic data using novel computational approaches. 
+I am a team player, a critical thinker, and a lifelong learner, driven by the quest to unravel the mysteries encoded with genomic data using novel computational approaches. 
 I want to pursue a PhD in computational biology, focusing on genomic research.
 
 ## Skills & Expertise

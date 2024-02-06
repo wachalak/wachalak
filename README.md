@@ -6,7 +6,8 @@ Welcome to my GitHub profile!
 ## Research interests
 
    🧬 Genomics
-   🧬 Machine Learning & Statistics
+   🧬 Machine Learning
+   🧬 Statistics
    🧬 Bioinformatics
    🧬 Developmental Biology
    🧬 Evolutionary Biology

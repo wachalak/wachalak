@@ -1,15 +1,19 @@
 # Hi c:
 
-I'm Karolina, an MSc student in Bioinformatics at Wageningen University & Research, with a focus on genomics and statistical machine learning. Welcome to my GitHub profile! 
+I'm Karolina, an MSc student in Bioinformatics at Wageningen University & Research, with a focus on genomics and statistical machine learning. 
+Welcome to my GitHub profile! 
 
 ## About Me
 
-During my master’s education, I've delved deep into the complexities of biological datasets, particularly in the wake of the omics revolution. These experiences made me realize:
+During my master’s education, I've delved deep into the complexities of biological datasets, particularly in the wake of the omics revolution. 
+These experiences made me realize:
 
 - 🧬 The importance of a multidisciplinary outlook on complex biological datasets through collaboration with researchers from various backgrounds.
-- 🧬 The need to bridge the qualitative-quantitative divide, especially in today's era where data collection has become cheap while inference remains expensive.
+- 🧬 The need to bridge the qualitative-quantitative divide, especially in today's era where data collection has become cheap while inference remains
+expensive.
 
-I am a team player, a critical thinker, and a lifelong learner, driven by the quest to unravel the mysteries encoded within genomic data. My ultimate goal is to pursue a Ph.D. in computational biology, focusing on genomic research.
+I am a team player, a critical thinker, and a lifelong learner, driven by the quest to unravel the mysteries encoded within genomic data. 
+My ultimate goal is to pursue a Ph.D. in computational biology, focusing on genomic research.
 
 ## Skills & Expertise
 

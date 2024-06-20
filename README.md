@@ -1,7 +1,6 @@
 # Hi c:
 
-I'm Karolina, a MSc student in Bioinformatics at Wageningen University & Research, with a focus on genomics and statistical machine learning. 
-Welcome to my GitHub profile! 
+I'm Karolina, a PhD in Computational Biology at the University of Bern. Welcome to my GitHub profile! 
 
 ## Research interests
 
@@ -14,7 +13,7 @@ Welcome to my GitHub profile!
 
 ## Skills & Expertise
 
-- **Genomics** & **Epigenomics**
+- **Genomics**
 - **Machine Learning**
 - **Statistics**
 - **Data Visualization & Analysis**

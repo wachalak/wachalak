@@ -11,7 +11,7 @@ welcome to my GitHub
    🧬 Developmental Biology
    🧬 Evolutionary Biology
 
-## Let's Connect
+## Let's connect
 
 - LinkedIn: [Karolina Wąchała](https://www.linkedin.com/in/karolina-wachala-978b56189/)
 

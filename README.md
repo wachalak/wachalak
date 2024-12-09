@@ -12,5 +12,5 @@ welcome to my GitHub
 
 ## Let's connect
 
-- LinkedIn: [Karolina Wąchała](https://www.linkedin.com/in/karolina-wachala-978b56189/)
+- LinkedIn: [Karolina Wachala](https://www.linkedin.com/in/karolina-wachala-978b56189/)
 

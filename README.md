@@ -7,7 +7,7 @@ welcome to my GitHub
    🧬 Genomics
    🧬 Statistics
    🧬 Machine Learning 
-   🧬 Evolutionary Biology
+   🧬 Evolution
 
 ## Let's connect
 

@@ -9,7 +9,3 @@ welcome to my GitHub
    🧬 Machine Learning 
    🧬 Evolution
 
-## Let's connect
-
-- LinkedIn: [Karolina Wachala](https://www.linkedin.com/in/karolina-wachala-978b56189/)
-
